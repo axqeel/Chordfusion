@@ -1,6 +1,6 @@
-#ChordFusion: AI Guitar Tutor
+# ChordFusion: AI Guitar Tutor
 
-🎸 Guitar AI Tutor - Chord Detection and Feedback System 🎵
+🎸 AI Guitar Tutor - Chord Detection and Feedback System 🎵
 
 This web app detects guitar chords from an audio recording and compares them with the chords of a searched song to provide feedback on accuracy.
 
